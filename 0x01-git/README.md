@@ -1,1 +1,1 @@
-git directory
+Frist readme update from github.com
